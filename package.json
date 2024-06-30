@@ -1,0 +1,14 @@
+{
+  "name": "sanber-js-part1",
+  "version": "1.0.0",
+  "description": "aplikasi belajar java scripit part 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node intro js"
+  },
+  "author": "Devi",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
